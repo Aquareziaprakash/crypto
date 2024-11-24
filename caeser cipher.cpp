@@ -5,9 +5,8 @@
 int main()
 {
     char plain[10], cipher[10];
-    int key, i, length;
-    int result;
-    printf("\n Prakash koirala\n");
+    int key, i, length, result;
+    printf("\n Prakash Koirala \n");
     printf("\n Enter the plain text:");
     scanf("%s", plain);
     printf("\n Enter the key value:");
